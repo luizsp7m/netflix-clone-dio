@@ -47,8 +47,6 @@ header.toggled {
   gap: 4.4rem;
 }
 
-.header-logo {}
-
 .header-logo img {
   width: 12rem;
   height: auto;
@@ -125,8 +123,6 @@ main {
   display: flex;
   align-items: center;
 }
-
-.description {}
 
 .description h1 {
   font-size: 4rem;
